@@ -1,0 +1,15 @@
+C:\Users\STUDENT\Desktop\Personal Projects\Trip\Trip-CS\Trip\bin\Debug\net6.0\Trip.exe
+C:\Users\STUDENT\Desktop\Personal Projects\Trip\Trip-CS\Trip\bin\Debug\net6.0\Trip.deps.json
+C:\Users\STUDENT\Desktop\Personal Projects\Trip\Trip-CS\Trip\bin\Debug\net6.0\Trip.runtimeconfig.json
+C:\Users\STUDENT\Desktop\Personal Projects\Trip\Trip-CS\Trip\bin\Debug\net6.0\Trip.dll
+C:\Users\STUDENT\Desktop\Personal Projects\Trip\Trip-CS\Trip\bin\Debug\net6.0\Trip.pdb
+C:\Users\STUDENT\Desktop\Personal Projects\Trip\Trip-CS\Trip\obj\Debug\net6.0\Trip.csproj.AssemblyReference.cache
+C:\Users\STUDENT\Desktop\Personal Projects\Trip\Trip-CS\Trip\obj\Debug\net6.0\Trip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\Desktop\Personal Projects\Trip\Trip-CS\Trip\obj\Debug\net6.0\Trip.AssemblyInfoInputs.cache
+C:\Users\STUDENT\Desktop\Personal Projects\Trip\Trip-CS\Trip\obj\Debug\net6.0\Trip.AssemblyInfo.cs
+C:\Users\STUDENT\Desktop\Personal Projects\Trip\Trip-CS\Trip\obj\Debug\net6.0\Trip.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\Personal Projects\Trip\Trip-CS\Trip\obj\Debug\net6.0\Trip.dll
+C:\Users\STUDENT\Desktop\Personal Projects\Trip\Trip-CS\Trip\obj\Debug\net6.0\refint\Trip.dll
+C:\Users\STUDENT\Desktop\Personal Projects\Trip\Trip-CS\Trip\obj\Debug\net6.0\Trip.pdb
+C:\Users\STUDENT\Desktop\Personal Projects\Trip\Trip-CS\Trip\obj\Debug\net6.0\Trip.genruntimeconfig.cache
+C:\Users\STUDENT\Desktop\Personal Projects\Trip\Trip-CS\Trip\obj\Debug\net6.0\ref\Trip.dll
